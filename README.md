@@ -337,6 +337,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Financial data and cryptocurrency information services.
 
+- <img src="https://avatars.githubusercontent.com/u/219085454?s=200&v=4" height="14"/> [CHP MCP](https://github.com/icohangar-ops/cubiczan-chp-mcp) - Consensus Hardening Protocol Profile B spend/HITL gate (`evaluate_spend_gate`). Official MCP Registry `io.github.icohangar-ops/chp-mcp`. `npx -y @cubiczan/chp-mcp`
 - <img src="https://docs.octagonagents.com/logo.svg" alt="Octagon Logo" height="14"/> [Octagon](https://github.com/OctagonAI/octagon-mcp-server)<sup><sup>⭐</sup></sup> - Deliver real-time market intelligence with extensive private and public market data.
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
 - <img src="https://www.chargebee.com/static/resources/brand/favicon.png" height="14"> [Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com).
@@ -382,6 +383,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools and servers that assist with software development workflows. Enables integration with development-related services and APIs.
 
+- <img src="https://avatars.githubusercontent.com/u/219085454?s=200&v=4" height="14"/> [Agent Conductor](https://github.com/icohangar-ops/agent-conductor) - AGENTS.md + SKILL.md orchestration with CHP Profile A R0/adversary gates over MCP. Registry `io.github.icohangar-ops/agent-conductor`. `npx -y @cubiczan/agent-conductor`
 - <img src="https://www.svgrepo.com/show/107853/uranus.svg" height="14"/> [CentralMind/Gateway](https://github.com/centralmind/gateway) - MCP and MCP SSE Server that automatically generate production ready API based on database schema and data. Supports PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery, Supabase
 - <img src="http://currents.dev/favicon.ico" height="14"/> [Currents](https://github.com/currents-dev/currents-mcp)<sup><sup>⭐</sup></sup> - Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
 - 🐙 [Octocode](https://github.com/bgauryy/octocode-mcp) -  AI-powered developer assistant that enables advanced research, analysis and discovery and code generation across GitHub and NPM realms in realtime.
